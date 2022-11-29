@@ -1,0 +1,1 @@
+Bu basit bir dosya Jenkins icin olusturuldu
